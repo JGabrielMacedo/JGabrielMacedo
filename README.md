@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JGabrielMacedo
-- 👀 I’m mobile developer (iOS(Swift), Flutter - Dart() and Android (Kotlin)
+- 👀 I’m mobile iOS(Swift), Flutter - Dart() and Android (Kotlin) developer
 - 🌱 I’m currently learning more about Android with Kotlin
 - 📫 How to reach me: jmacedodev@gmail.com (professional) || joaorktj3636@gmail.com (personal)
 - 🇧🇷 I live in Brazil
