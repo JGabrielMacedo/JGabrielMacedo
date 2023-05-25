@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JGabrielMacedo
-- 👀 I’m Flutter mobile developer
-- 🌱 I’m currently learning Android (Java and Kotlin) and IOS (Swift)
-- 💞️ I’m looking to collaborate on Mobile Development with Flutter
+- 👀 I’m mobile developer (iOS(Swift), Flutter - Dart() and Android (Kotlin)
+- 🌱 I’m currently learning more about Android with Kotlin
 - 📫 How to reach me: jmacedodev@gmail.com (professional) || joaorktj3636@gmail.com (personal)
 - 🇧🇷 I live in Brazil
 - 🇨🇦 My dream is live and work at Canada 🇦
