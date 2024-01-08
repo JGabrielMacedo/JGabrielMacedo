@@ -39,3 +39,13 @@ In addition to my technical skills, I have taken on various roles in my professi
 ## Contact Information
 
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via email at [jmacedodev@gmail.com](mailto:jmacedodev@gmail.com). Let's connect and explore the exciting possibilities together!
+
+## Discover my projects
+
+Explore the exciting world of my projects, each crafted with passion and dedication. Here's a glimpse into one of my noteworthy endeavors:
+
+### Pokefinder Flutter App
+
+Dive into the captivating universe of Pokémon with the Pokefinder Flutter App. This mobile application, developed using Flutter, provides a delightful experience for Pokémon enthusiasts. Discover and explore information about your favorite Pokémon, all within the palm of your hand.
+
+📱 **Pokefinder App:** [Explore Pokefinder](https://github.com/JGabrielMacedo/pokefinder)
