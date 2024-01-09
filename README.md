@@ -49,3 +49,9 @@ Explore the exciting world of my projects, each crafted with passion and dedicat
 Dive into the captivating universe of Pokémon with the Pokefinder Flutter App. This mobile application, developed using Flutter, provides a delightful experience for Pokémon enthusiasts. Discover and explore information about your favorite Pokémon, all within the palm of your hand.
 
 📱 **Pokefinder App:** [Explore Pokefinder](https://github.com/JGabrielMacedo/pokefinder)
+
+### Nomadic - Event Planning App
+
+Embark on seamless event planning with Nomadic, my TCC project. Nomadic simplifies gathering friends, suggesting places to visit, and doubling as a social network for event memories. Currently in the process of refining and improving features.
+
+📱 **Explore Nomadic:** [Nomadic Project](https://github.com/YourUsername/Nomadic)
